@@ -4,7 +4,7 @@
   
 ## [English](하단에 한글 있습니다)  
 "PolyGun" means a compound word "Polygon" and "Gun"  
-If you play this game, enter is file "PolyGun" and run the exe file
+If you play this game, enter is file "PolyGun" and run the "LHS_PolyGun.exe" file
 Note that, this game is created using "HTC Vive Full Set_CE(supprooted SteamVR)"
 * Watch Game Play Video : <a href="https://youtu.be/My9EimcYlY8"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 
@@ -42,7 +42,7 @@ Note that, this game is created using "HTC Vive Full Set_CE(supprooted SteamVR)"
     
 ## [한국어]  
 "PolyGun"은 다각형의 뜻을 가진 "Polygon"과 총의 뜻을 가진 "Gun"의 합성어입니다.  
-게임 플레이를 원하시면 "PolyGun" 폴더에 있는 exe 파일을 여시면 됩니다.
+게임 플레이를 원하시면 "PolyGun" 폴더에 있는 "LHS_PolyGun.exe" 파일을 여시면 됩니다.
 참고로, 해당 게임은 "HTC Vive Full Set_CE(SteamVR 지원)"로 통해 제작되었습니다.
 * 게임 플레이 영상 : <a href="https://youtu.be/My9EimcYlY8"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 
