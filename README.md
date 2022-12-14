@@ -34,7 +34,8 @@ Note that, this game is created using "HTC Vive Full Set_CE(supprooted SteamVR)"
     
       
   I hope you enjoy this game :)  
-    
+  If you need a code or other inquiries, please contact me at the following e-mail  
+  skywhorl@naver.com / replica985028@gmail.com
     
     
     
@@ -70,4 +71,6 @@ Note that, this game is created using "HTC Vive Full Set_CE(supprooted SteamVR)"
   모든 목숨이 소진되면 서바이벌모드가 끝나고 얼마나 살아남았는지에 대한 결과는 가운데 판에 나타나게됩니다.  
     
       
-  재밌는 플레이되시길 :)
+  재밌는 플레이되셨으면 좋겠습니다 :)  
+  코드 및 기타 프로젝트 관련 문의는 아래의 메일로 문의 바랍니다.  
+  skywhorl@naver.com / replica985028@gmail.com
