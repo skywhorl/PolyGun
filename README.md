@@ -2,7 +2,7 @@
 ### Single FPS PC VR game
  
   
-## [English](하단에 한글 있습니다)  
+## [English](하단에 한국어 있습니다)  
 "PolyGun" means a compound word "Polygon" and "Gun"  
 If you play this game, enter is file "PolyGun" and run the "LHS_PolyGun.exe" file  
 Note that, this game is created using "HTC Vive Full Set_CE(supprooted SteamVR)"  
